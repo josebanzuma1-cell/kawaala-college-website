@@ -1,0 +1,8 @@
+# Kawaala College School
+# Search engines are welcome to index the whole site.
+
+User-agent: *
+Allow: /
+
+# Replace this domain with your real one once the site is live.
+Sitemap: https://www.kawaalacollegeschool.ac.ug/sitemap.xml

@@ -1,0 +1,14 @@
+# Operating system clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*~
+
+# Note: assets/source/ holds the two original leaflet photographs.
+# They are kept in the repository on purpose, as a backup of the only
+# original photography the school has. If you would rather not publish
+# them, remove the "#" from the line below and commit again.
+# assets/source/
