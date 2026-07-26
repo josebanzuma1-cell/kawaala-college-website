@@ -7,8 +7,11 @@ desktop.ini
 *.swp
 *~
 
-# Note: assets/source/ holds the two original leaflet photographs.
-# They are kept in the repository on purpose, as a backup of the only
-# original photography the school has. If you would rather not publish
-# them, remove the "#" from the line below and commit again.
-# assets/source/
+# Original, full-size photography. Kept on the office computer, not in the
+# repository: it is around 27 MB of source material that the website itself
+# never loads, and GitHub Pages would publish every byte of it.
+# Keep your own backup of this folder somewhere safe.
+assets/source/
+
+# Build scratch
+manifest.json

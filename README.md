@@ -105,10 +105,15 @@ under the three names — the site will still work correctly, it will just use a
 little more data on phones. If you want it done properly, ask whoever helps you
 with the site to resize them to 640 and 1024 pixels wide.
 
-**Important:** every photograph currently on this site was cut out of the
-printed leaflet, so they are softer and grainier than they should be. Almost any
-photo taken on a modern phone will look better. Replacing them is the single
-biggest improvement you can make.
+**A note on the current photographs.** These are the enhanced versions supplied
+in July 2026, cropped to remove printed borders, the leaflet's own caption bars
+and baked-in titles — the website draws its own red caption bar under every
+photograph, so any text burnt into the image would appear twice.
+
+One photograph is still an old leaflet crop and is noticeably softer than the
+rest: `facilities/laboratory-chemicals.jpg`, the shelves of apparatus and
+chemicals. No enhanced version was supplied for it. It appears on the home page
+and on the academics page, so it is worth replacing.
 
 ---
 
@@ -263,19 +268,21 @@ something made up. Send these and the site is finished.
 
 ### Needed before launch
 
-1. **A high-resolution crest.** The one in use was cut from a photograph of the
-   leaflet and is only 192 pixels across. A PNG with a transparent background,
-   or a vector file from whoever designed it, would replace
-   `assets/logo/crest-placeholder.png` and `assets/logo/favicon.svg`.
-2. **Fees structure** — per term, by class, day and boarding, plus the
+1. **Fees structure** — per term, by class, day and boarding, plus the
    requirements list. *Shown on:* `admissions.html`. Tell us if you would rather
    not publish fees publicly and we will invite parents to call the bursar
    instead.
-3. **Term dates / academic calendar**, including visiting days. *Shown on:*
+2. **Term dates / academic calendar**, including visiting days. *Shown on:*
    `admissions.html`.
-4. **Head teacher's name, photograph and a short welcome** of about eighty
+3. **Head teacher's name, photograph and a short welcome** of about eighty
    words. *Shown on:* `about.html`.
-5. **Office opening hours.** *Shown on:* `contact.html`.
+4. **Office opening hours.** *Shown on:* `contact.html`.
+5. **A word about two of the photographs.** In the certificates picture,
+   several students wear other schools' uniforms and badges — one shirt reads
+   "Jinja SS". Nothing on the site claims they are all KCS students, but please
+   confirm whether this was a joint workshop. In the salon picture, a T-shirt
+   reading "Dominant Africa Vocational Institute" was cropped out. If either
+   photograph was not taken at KCS, replace it.
 
 ### Needed soon after
 
