@@ -31,7 +31,7 @@ and it has never failed anybody.
 | `academics.html` | O-Level and A-Level subjects |
 | `vocational.html` | The eight practical courses |
 | `admissions.html` | How to apply, entry requirements, enquiry form |
-| `campuses.html` | Namungoona and the new Gayaza campus |
+| `campuses.html` | Kawaala and the new Gayaza campus |
 | `gallery.html` | Photographs |
 | `news.html` | News and events |
 | `contact.html` | Contact details, map, contact form |
@@ -110,10 +110,20 @@ in July 2026, cropped to remove printed borders, the leaflet's own caption bars
 and baked-in titles — the website draws its own red caption bar under every
 photograph, so any text burnt into the image would appear twice.
 
-One photograph is still an old leaflet crop and is noticeably softer than the
-rest: `facilities/laboratory-chemicals.jpg`, the shelves of apparatus and
-chemicals. No enhanced version was supplied for it. It appears on the home page
-and on the academics page, so it is worth replacing.
+**One image is not a photograph of this school.**
+`facilities/laboratory-chemicals.jpg` — the shelves of labelled reagent bottles
+— is a stock photograph from Pexels
+(https://www.pexels.com/photo/bottles-on-shelves-inside-a-laboratory-11703173/),
+used under the Pexels licence, which allows free commercial use with no
+attribution required. It stands in for the soft leaflet crop that was there
+before, because no enhanced version of that photograph was supplied.
+
+It appears on the home page, the academics page and in the gallery. The
+surrounding caption is honest about what it shows, and the alt text says "a
+school chemistry laboratory" rather than "our laboratory" — but a visitor will
+naturally assume it is your lab. **Replace it with a photograph of your own
+science laboratory as soon as you can.** A phone photo of the real shelves is
+worth more than any stock image.
 
 ---
 
