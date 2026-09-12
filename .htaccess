@@ -1,0 +1,18 @@
+# Kawaala College School - Hostinger (Apache)
+#
+# Both www.kawaalacollegeschool.site and kawaalacollegeschool.site serve this
+# site. Left alone, Google treats them as two different websites and splits the
+# ranking between them. This sends www to the plain address, which is the one
+# named in every canonical tag and in sitemap.xml.
+#
+# If your host already does this, or you would rather use the www address,
+# delete this file - nothing else depends on it.
+
+RewriteEngine On
+
+# www  ->  no www  (permanent, so search engines update their records)
+RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+
+# Serve the branded 404 page instead of the host's default
+ErrorDocument 404 /404.html

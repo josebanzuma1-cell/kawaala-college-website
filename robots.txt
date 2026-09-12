@@ -6,4 +6,4 @@ Allow: /
 
 # If the school moves to its own domain, update this line, sitemap.xml, and
 # the canonical / og:url tags at the top of each .html page.
-Sitemap: https://josebanzuma1-cell.github.io/kawaala-college-website/sitemap.xml
+Sitemap: https://kawaalacollegeschool.site/sitemap.xml
