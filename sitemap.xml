@@ -1,50 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- After you point your domain at this website, replace every
-     www.kawaalacollegeschool.ac.ug below with your real domain name. -->
+<!--
+  Sitemap for Kawaala College School.
+  Submit this file to Google Search Console at:
+      https://josebanzuma1-cell.github.io/kawaala-college-website/sitemap.xml
+
+  If the school later moves to its own domain, replace every
+  https://josebanzuma1-cell.github.io/kawaala-college-website
+  below with the new address, and do the same in robots.txt and in the
+  canonical / og:url lines at the top of each .html page.
+-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/</loc>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/about.html</loc>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/admissions.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/academics.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/vocational.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/about.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/academics.html</loc>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/contact.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/vocational.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/admissions.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/campuses.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/gallery.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/news.html</loc>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/news.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.kawaalacollegeschool.ac.ug/contact.html</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/campuses.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://josebanzuma1-cell.github.io/kawaala-college-website/gallery.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
